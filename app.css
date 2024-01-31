@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+
+h1,h2{
+    color: teal;
+}
+
+button{
+    font-size: 15px;
+    background-color: aliceblue;
+}
+
+#signup {
+    background-color: blueviolet;
+}
+
+span {
+    color: blueviolet;
+}
+
+.tag{
+    background-color: slategray;
+}
+
+.Post a {
+    color: rgb(55, 71, 39);
+}
+
+footer a {
+    color: red;
+}
+
+input[type="password"]{
+    color: deeppink;
+}
+.Post button:hover{
+    background-color: crimson;
+    color: darkslateblue;
+}
